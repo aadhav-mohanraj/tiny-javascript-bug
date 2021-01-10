@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "to learn javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhav-mohanraj/tiny-javascript-bug.git"
+  },
+  "author": "Aadhav Mohanraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhav-mohanraj/tiny-javascript-bug/issues"
+  },
+  "homepage": "https://github.com/aadhav-mohanraj/tiny-javascript-bug#readme"
+}
